@@ -8,9 +8,9 @@ Catatan personal tentang pola pikir, ekspektasi, frustrasi, dan apa yang saya ma
 
 Start here / Mulai di sini: [00 MOC - START HERE](00%20MOC%20-%20START%20HERE.md)
 
-Copy-paste ke AI (satu file, prompt + 8 catatan ID): [00 Copy All Untuk AI](00_Copy_All_Untuk_AI.md)
+Copy-paste ke AI (satu file, prompt + 9 catatan ID): [00 Copy All Untuk AI](00_Copy_All_Untuk_AI.md)
 
-## Isi (ID, 8 file)
+## Isi (ID, 9 file)
 
 - [03 Pola Diri Utama](03_Pola_Diri_Utama.md) [UTAMA 2026-10-05] — mulai di sini
 - [04 Pikir Cepat & Ekspektasi](04_Pola_Pikir_Cepat_Dan_Ekspektasi.md)
@@ -20,8 +20,9 @@ Copy-paste ke AI (satu file, prompt + 8 catatan ID): [00 Copy All Untuk AI](00_C
 - [08 Kekuatan](08_Kekuatan_Problem_Solving_Dan_Otomatisasi.md)
 - [09 Orang Lain & Sepi](09_Pola_Ke_Orang_Lain_Dan_Rasa_Sepi.md)
 - [10 Apa Yang Saya Mau](10_Apa_Yang_Saya_Mau.md)
+- [11 Pertanyaan Belum Terjawab](11_Pertanyaan_Belum_Terjawab_Untuk_Psikolog.md) (untuk psikolog)
 
-## English versions (8 files, `_EN`)
+## English versions (9 files, `_EN`)
 
 - [03 Main Pattern](03_Pola_Diri_Utama_EN.md) [MAIN] — start here
 - [04 Fast Thinking & Expectations](04_Pola_Pikir_Cepat_Dan_Ekspektasi_EN.md)
@@ -31,6 +32,7 @@ Copy-paste ke AI (satu file, prompt + 8 catatan ID): [00 Copy All Untuk AI](00_C
 - [08 Strength](08_Kekuatan_Problem_Solving_Dan_Otomatisasi_EN.md)
 - [09 Others & Loneliness](09_Pola_Ke_Orang_Lain_Dan_Rasa_Sepi_EN.md)
 - [10 What I Want](10_Apa_Yang_Saya_Mau_EN.md)
+- [11 Unanswered Questions](11_Pertanyaan_Belum_Terjawab_Untuk_Psikolog_EN.md) (for psychologist)
 
 ## Disclaimer
 

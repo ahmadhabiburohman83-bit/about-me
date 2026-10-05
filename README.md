@@ -8,6 +8,8 @@ Catatan personal tentang pola pikir, ekspektasi, frustrasi, dan apa yang saya ma
 
 Start here / Mulai di sini: [00 MOC - START HERE](00%20MOC%20-%20START%20HERE.md)
 
+Copy-paste ke AI (satu file, prompt + 8 catatan ID): [00 Copy All Untuk AI](00_Copy_All_Untuk_AI.md)
+
 ## Isi (ID, 8 file)
 
 - [03 Pola Diri Utama](03_Pola_Diri_Utama.md) [UTAMA 2026-10-05] — mulai di sini

@@ -4,6 +4,7 @@
 > Bukan diagnosis. Bahan introspeksi + sesi psikolog.
 
 Folder personal, bukan kuliah. Kalau urgent, baca 2 ini dulu: [[03_Pola_Diri_Utama|03 Utama]] + [[10_Apa_Yang_Saya_Mau|10 Apa Yang Saya Mau]].
+Mau konsultasi ke AI: copy [[00_Copy_All_Untuk_AI|00 Copy All Untuk AI]] (satu file, sudah termasuk prompt).
 
 ## Urutan baca (ID)
 
